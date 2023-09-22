@@ -193,6 +193,16 @@ const contributors = [
     likes: "Video games, cats, and movies",
     load_check: false,
   },
-];
+  {
+    name: "Michael",
+    githubName: "mcloughman",
+    location: "NV",
+    favorite_ice_cream: "chocolate chip cookie dough",
+    githubLink: "https://github.com/mcloughman",
+    profileImage: "",
+    likes: "hiking, bird watching, Premier League",
+    load_check: false,
+  },
+]
 
-export { contributors };
+export { contributors }
